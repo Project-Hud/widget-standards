@@ -29,7 +29,17 @@ Check the samples folder in this repository for examples of styles and markup.
 
 ### Graphing Libraries
 
-### Development Platforms
+Various graphing libraries have been tried and tested by [@tomgco](https://github.com/tomgco/) and [@lukewilde](https://github.com/lukewilde)
+However the general consensus has been to utilise as much of [d3.js](http://d3js.org/) as possible, but with most things
+we shouldn't allow this to become a Golden Hammer.
+
+### Development Platform
+
+- Node.js
+- Basic Express Application
+- Websockets for realtime
+- Ajax for dynamic updates
 
 ### Coding Standards
 
+See https://github.com/bengourley/js-style-guide
